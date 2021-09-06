@@ -1,0 +1,16 @@
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\bin\Debug\Inheritance.HastaneOtomasyonu.exe.config
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\bin\Debug\Inheritance.HastaneOtomasyonu.exe
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\bin\Debug\Inheritance.HastaneOtomasyonu.pdb
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\bin\Debug\Inheritance.HastaneOtomasyonu.CommonTools.dll
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\bin\Debug\Inheritance.HastaneOtomasyonu.CommonTools.pdb
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\obj\Debug\Inheritance.HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\obj\Debug\Inheritance.HastaneOtomasyonu.Form1.resources
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\obj\Debug\Inheritance.HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\obj\Debug\Inheritance.HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\obj\Debug\Inheritance.HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\obj\Debug\Inheritance.HastaneOtomasyonu.csproj.CopyComplete
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\obj\Debug\Inheritance.HastaneOtomasyonu.exe
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\obj\Debug\Inheritance.HastaneOtomasyonu.pdb
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\obj\Debug\Inheritance.HastaneOtomasyonu.FrmDoktorKayit.resources
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\obj\Debug\Inheritance.HastaneOtomasyonu.FrmRandevuEkrani.resources
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu\obj\Debug\Inheritance.HastaneOtomasyonu.FrmGunSonu.resources

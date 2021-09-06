@@ -1,0 +1,7 @@
+C:\Users\Nur\source\repos\Inheritance\Inheritance.KonuAnlatimi\bin\Debug\Inheritance.KonuAnlatimi.exe.config
+C:\Users\Nur\source\repos\Inheritance\Inheritance.KonuAnlatimi\bin\Debug\Inheritance.KonuAnlatimi.exe
+C:\Users\Nur\source\repos\Inheritance\Inheritance.KonuAnlatimi\bin\Debug\Inheritance.KonuAnlatimi.pdb
+C:\Users\Nur\source\repos\Inheritance\Inheritance.KonuAnlatimi\obj\Debug\Inheritance.KonuAnlatimi.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\Inheritance\Inheritance.KonuAnlatimi\obj\Debug\Inheritance.KonuAnlatimi.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\Inheritance\Inheritance.KonuAnlatimi\obj\Debug\Inheritance.KonuAnlatimi.exe
+C:\Users\Nur\source\repos\Inheritance\Inheritance.KonuAnlatimi\obj\Debug\Inheritance.KonuAnlatimi.pdb

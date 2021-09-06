@@ -1,0 +1,6 @@
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu.CommonTools\bin\Debug\Inheritance.HastaneOtomasyonu.CommonTools.dll
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu.CommonTools\bin\Debug\Inheritance.HastaneOtomasyonu.CommonTools.pdb
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu.CommonTools\obj\Debug\Inheritance.HastaneOtomasyonu.CommonTools.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu.CommonTools\obj\Debug\Inheritance.HastaneOtomasyonu.CommonTools.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu.CommonTools\obj\Debug\Inheritance.HastaneOtomasyonu.CommonTools.dll
+C:\Users\Nur\source\repos\Inheritance\Inheritance.HastaneOtomasyonu.CommonTools\obj\Debug\Inheritance.HastaneOtomasyonu.CommonTools.pdb
